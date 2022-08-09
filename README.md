@@ -6,7 +6,9 @@ Thank you for take a look at my GitHub profile. This page is a summary of all th
     * Create vote and send transaction to Blockchain 
     * Smart contract calculates reward ERC20 tokens
     * Smart contract keeps track of terminated news
-    * Non Blocking UI design https://developer.ibm.com/articles/getting-started-with-blockchain-design-patterns/
+    * Applies the concept of Proof-of-stake to calculate incentivized tokens and prevent spammers
+    * Designs Off-chain storage that stores data on MongoDB to reduce the cost and query time.
+    * Implements Non Blocking UI design https://developer.ibm.com/articles/getting-started-with-blockchain-design-patterns/
 * Languages: Solidity, NodeJS, React, Openzeppelin, Hardhat, MongoDB,  
 * Frameworks: Openzeppelin, Hardhat, MongoDB, MetaMask, Ethers, Bootstrap 
 * GitHub URL: https://github.com/pdmquang/Empower-Crowdsourcing-with-Blockchain
