@@ -1,5 +1,9 @@
 # Summary
 Thank you for take a look at my GitHub profile. This page is a summary of all the projects I did while in the university. Enjoy !
+
+## Recommendation letter
+https://github.com/pdmquang/Empower-Crowdsourcing-with-Blockchain
+
 ## Project
 ### Empower-Crowdsourcing-with-Blockchain
 * Main features: 
