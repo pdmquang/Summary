@@ -16,6 +16,10 @@ Thank you for take a look at my GitHub profile. This page is a summary of all th
 * Languages: Solidity, NodeJS, React, Openzeppelin, Hardhat, MongoDB  
 * Frameworks: Openzeppelin, Hardhat, MongoDB, MetaMask, Ethers, Bootstrap, Linux OS
 * GitHub URL: https://github.com/pdmquang/Empower-Crowdsourcing-with-Blockchain
+* Research on `Use of Blockchain and Ethereum to create fake news
+detection model`
+    * Report pdf: https://github.com/pdmquang/Empower-Crowdsourcing-with-Blockchain/blob/master/Report.pdf
+    * Slides pdf: https://github.com/pdmquang/Empower-Crowdsourcing-with-Blockchain/blob/master/Slides.pdf
 
 ### Room Booking system for Marriott's customer service team
 * Main features: 
@@ -59,9 +63,6 @@ Thank you for take a look at my GitHub profile. This page is a summary of all th
 * Frameworks: Linux OS, Eclipse IDE
 * GitHub URL: https://github.com/pdmquang/Automotive-Odometer
 
-### Research on Ethereum Blockchain and Smart contract (Proof of stakes) and design a website to facilitate crowdsourcing services.
-* Report pdf: https://github.com/pdmquang/Empower-Crowdsourcing-with-Blockchain/blob/master/Report.pdf
-* Slides pdf: https://github.com/pdmquang/Empower-Crowdsourcing-with-Blockchain/blob/master/Slides.pdf
 
 
 
