@@ -31,16 +31,6 @@ detection model`
 * Frameworks: Flask, Object–relational mapping(ORM), JQuery, CSS, Window Server
 * GitHub URL: https://github.com/pdmquang/Booking-System-for-Starwood
 
-### Fund Gathering for Community Services 
-* Main features: 
-    * Login & Registration 
-    * Admin can update contents and retrieve funds
-    * User can choose event/s to participate in
-    * Sponsor can fund an event 
-* Languages: Java
-* Frameworks: JavaFx, SQL Lite, Eclipse IDE
-* GitHub URL: https://github.com/pdmquang/Fund-Gathering-for-Community
-
 ### Online Carpark Booking
 * Main features: 
     * Login & Registration  
